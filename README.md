@@ -7,8 +7,8 @@ Pasos para Instalar
 3- Ejecutar composer install
 
 
-Enlaces de interes:
-https://www.slimframework.com
-https://getcomposer.org/
-https://getbootstrap.com/
-http://api.jquery.com/jquery.ajax/
+Enlaces de interes:<br/>
+https://www.slimframework.com<br/>
+https://getcomposer.org/<br/>
+https://getbootstrap.com/<br/>
+http://api.jquery.com/jquery.ajax/<br/>
